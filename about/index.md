@@ -23,7 +23,7 @@ image:
 1. [My resume](http://longnguyen.info/extras/resume)
 2. [Kaggle competition](https://www.kaggle.com/longnguyen/results)
 3. [LinkedIn](http://linkedin.com/in/nguyenhailongphd)
-4. [PhD thesis](http://longnguyen.info/extras/thesis.pdf), [slides](http://longnguyen.info/extras/thesis_slides.pdf)
+4. [PhD thesis](../extras/decks/thesis.pdf), [slides](../extras/decks/thesis_slides.pdf)
 
 # Publications
 1. [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=RI_8PosAAAAJ)
