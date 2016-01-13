@@ -38,6 +38,11 @@ image:
 - [Choosing a Learning Algorithm in Azure ML](http://blogs.technet.com/b/machinelearning/archive/2015/05/20/choosing-a-learning-algorithm-in-azure-ml.aspx)
 - [Kaggle Ensemble Guide](http://mlwave.com/kaggle-ensembling-guide/)
 
+## Model Evaluation
+- [An introduction to ROC analysis](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
+- [Illustrated Guide to ROC and AUC](http://www.r-bloggers.com/illustrated-guide-to-roc-and-auc/)
+- [Evaluation and Cost-Sensitive Learning](https://www.ke.tu-darmstadt.de/lehre/archiv/ws0506/mldm/evaluation.pdf)
+
 ## Kaggle
 - [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)
 - [Profiling Top Kagglers: Gilberto Titericz, New #1 in the World](http://blog.kaggle.com/2015/11/09/profiling-top-kagglers-gilberto-titericz-new-1-in-the-world/)
