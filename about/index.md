@@ -13,18 +13,18 @@ image:
 
 * I have strong interests in how to apply data mining/machine learning into real industries with big data. I have successfully worked and managed several industrial projects with funding up to millions dollars for big companies. These companies are McLaren, a Singapore Telco company, SoftBank - a Japanese Fortune-500 Telco company, and Singapore Energy Market Authority (EMA). 
 
-### Domain expertise
+## Domain expertise
 1. Data Stream Mining
 2. Time Series Mining
 3. Condition-Based Maintenance
 4. Big Data
 
-#Links
+## Links
 1. [My resume](../extras/resume.html)
 2. [Kaggle competition](https://www.kaggle.com/longnguyen/results)
 3. [LinkedIn](http://linkedin.com/in/nguyenhailongphd)
 4. [PhD thesis](../extras/decks/thesis.pdf), [slides](../extras/decks/thesis_slides.pdf)
 
-# Publications
+## Publications
 1. [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=RI_8PosAAAAJ)
 2. [DBLP](http://dblp.uni-trier.de/pers/hd/n/Nguyen:Hai=Long)
