@@ -9,8 +9,11 @@ image:
   credit: ThanhPhuong
   creditlink: http://www.thanhphuong.com/
 ---
-## Data Science News
+## Deep Learning
 - [Want an open-source deep learning framework? Take your pick](http://venturebeat.com/2015/11/14/deep-learning-frameworks/)
+- [Caffe](https://github.com/BVLC/caffe)
+- [DIY Deep Learning for Vision: a Hands-On Tutorial with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.gc2fcdcce7_216_0)
+- [Brewing ImageNet](http://caffe.berkeleyvision.org/gathered/examples/imagenet.html)
 
 ## Data Science Background
 - [A Few Useful Things to Know about Machine Learning by Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [(another post)](http://machinelearningmastery.com/useful-things-to-know-about-machine-learning/)
