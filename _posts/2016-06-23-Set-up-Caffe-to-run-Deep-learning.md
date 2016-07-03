@@ -51,7 +51,7 @@ Run the following command:
 5. Build also python module and distribution libraries.
 - `make pycaffe`
 - `make distribute`
-
+6. Check out important examples
 
 
 
