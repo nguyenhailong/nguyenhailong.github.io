@@ -9,16 +9,16 @@ image:
   credit: ThanhPhuong
   creditlink: http://www.thanhphuong.com/
 ---
-* I am currently a Product Analytics Manager at Visa compary. Previously, he worked as a data scientist at McLaren Applied Technologies and Institute for Infocomm Research (I2R), A*Star, Singapore.
+* I am currently a Product Analytics Manager at Visa compary. Previously, I worked as a data scientist at McLaren Applied Technologies and Institute for Infocomm Research (I2R), A*Star, Singapore.
 
-* I have strong interests in how to apply machine learning into real industries with big data. He has successfully worked for several industrial projects with significant funding for large multi-national corporations such as a telcos, consulting firms and energy corporations.  Moreover, he has published scientific papers in reputed conferences and journals. His research interests include time series mining, data stream mining, big data, and condition-based monitoring.
+* I have strong interests in how to apply machine learning into real industries with big data. I have successfully worked for several industrial projects with significant funding for large multi-national corporations such as a telcos, consulting firms and energy corporations.  Moreover, I have published scientific papers in reputed conferences and journals. My research interests include time series mining, data stream mining, big data, and condition-based monitoring.
 
 ## Domain expertise
-1. Health & Welness
+1. Big Data
 2. Data Stream Mining
 3. Time Series Mining
-4. Condition-Based Maintenance
-5. Big Data
+4. Health & Welness
+5. Condition-Based Maintenance
 
 ## Links
 1. [My resume](../extras/resume.html)
