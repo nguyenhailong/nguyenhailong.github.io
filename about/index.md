@@ -17,7 +17,7 @@ image:
 1. Big Data
 2. Data Stream Mining
 3. Time Series Mining
-4. Health & Welness
+4. Health & Wellness
 5. Condition-Based Maintenance
 
 ## Links
