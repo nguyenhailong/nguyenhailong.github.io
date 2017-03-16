@@ -6,7 +6,9 @@ modified:
 excerpt: "How to join Kaggle competitions for learning and fun"
 tags: []
 ---
-Kaggle is probably a well-known place for data science competitions with more than a half of million users. It bridges the gap between data scientists who, need data to play with and companies, which require top quality solutions for theirs business problems.
+Kaggle is probably a well-known place for data science competitions with more than a half of million users. It bridges the gap between data scientists who, need data to play with and companies, which require top quality solutions for theirs business problems. 
+
+Sample code of my [Kaggle competitions](https://github.com/nguyenhailong/Kaggle).
 
 In my opinion, it is good to join Kaggle competitions for learning and fun. Firstly, you surely can learn a lot from these competitions. Each competition typically has more than 2000 participants; therefore, you definitely learn from this crowd. You can learn from the forum, scripts, and especially from the winning solutions. Secondly, it is fun since this is a place, where you can make new friends. You may form a team for the competitions and meet up for discussions.
 
