@@ -19,7 +19,6 @@ corrgram(data,
 ```
 # Overlay data distributions for comparisons
 Given two groups of data, we may need to compare their distributions. Overlay distribution plots will be helpful with beautiful visualization.
-It is very helpful to create 'golden' features. :)
 ```R
 # assign two groups for legends
 group1$partition = 'group1'
@@ -39,6 +38,8 @@ for( var in imp_vars){
 ```
 # Histogram of important features vs label
 One of my sample code taken from a [Kaggle competition](https://www.kaggle.com/longnguyen/homesite-quote-conversion/histogram-of-important-features-vs-label).
+
+It is very helpful to create 'golden' features. :)
 ```R
 library(readr)
 library(ggplot2)
