@@ -7,6 +7,9 @@ excerpt: "Collection of small and re-usable source code for SAS"
 tags: []
 ---
 Collection of small and re-usable source code for SAS
+
+Feel free to use it if you find it helpful.
+
 ## Count number of rows/observation in a table
 ```SAS
 /*define a macro function*/
