@@ -57,6 +57,6 @@ plot <- ggplot(train, aes_string(att, fill = 'QuoteConversion_Flag')) +
   ggtitle(paste0('Histogram of attribute ', att))
 }
 ```
-For example, Field7 at bin value ~25 is could be an additioanl important variable.
-![Histogram of Important Feature](https://github.com/nguyenhailong/nguyenhailong.github.io/blob/master/_posts/images/histogram_of_important_feauture.png "Histogram of Important Feature")
+For example, Field7 at bin value ~25 could be useful for creating an additional variable.
+![Histogram of Important Feature](https://photos.app.goo.gl/mJLk4gNJC5UbYPWK2 "Histogram of Important Feature")
 
