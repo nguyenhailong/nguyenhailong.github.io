@@ -58,5 +58,6 @@ plot <- ggplot(train, aes_string(att, fill = 'QuoteConversion_Flag')) +
 }
 ```
 For example, Field7 at bin value ~25 could be useful for creating an additional variable.
-![Histogram of Important Feature](https://photos.app.goo.gl/mJLk4gNJC5UbYPWK2 "Histogram of Important Feature")
+
+![Histogram of Important Feature](https://lh3.googleusercontent.com/V6k7tLmlQt0wWOtiWJ_1ZN5o4t4VmRtbYC9HAAmmAMkOSkzbY0M2RKTomVIsO_1Otnl-owj17wfwHA2uBasazfe8w2EvO5sFNCoMnUXDtwClhdP_53h9F5DKlYNMXclqi8uGDDAM8Rre64zjzA51M9MFtEemYacxoAuWM17j8IGZB_QP0b5PMY_nD9Cb1NU4q_jwiffclBvixxlqwKy_ETLkTqz9ta0FVb6OTCWoZGppbxRyjKqpMImPpI7464pEHwaJGMQyOkBjoTz7h7gjpWHfe0f5ctlRMe5vQ3KcOWnPpzpPpw6e3xYH8twY7jNOTPMq3v-p6ulJw-hPFYDlTEgSW_F0TFa4ApW1_4Q6N3axNYGjOOdt-CG7kULllMhV4v8BSiqB_rXt-OLn7v4BUQuqT9RMM50GWOrFOdQyCXG369bAkmTeGtGVi46lknPq1_rOq1IP5F62sHcSXcfEWyMbBNcRDmEUXt-Y87rq31jsIySYpVgK19zo9LANtVnsbd5m0LqD4E2gL7kghnjJa9HCY6aSvrRUVOaD5qOU0l9E2M8TwHbn4C3Q5XWVHZ9oFowWafofg-x6Sxg_0rwlfGsikmd-GQ8o3FIfgIlvnlyh7fNO93BDgTBdeJM2bF3bgCL_at6kLnaymGofRIyUNich7zYl6teNjSJE=s840-no "Histogram of Important Feature")
 
