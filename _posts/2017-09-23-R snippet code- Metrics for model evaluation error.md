@@ -19,6 +19,7 @@ library(ROCR)
 library(ggplot2)
 set.seed(1)
 n=10000
+# Randomly create score and ground truth for examples
 score <- runif(n)
 y <- (runif(n) < score)
 ```
