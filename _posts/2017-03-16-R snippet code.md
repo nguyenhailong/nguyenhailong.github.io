@@ -57,3 +57,8 @@ plot <- ggplot(train, aes_string(att, fill = 'QuoteConversion_Flag')) +
   ggtitle(paste0('Histogram of attribute ', att))
 }
 ```
+For exampl, Fielf7 at bin value ~25 is could be an additioanl important variable.
+
+![alt text][logo]
+
+[logo]: ./images/histogram_of_important_feauture.png "Histogram of Important Feature"
