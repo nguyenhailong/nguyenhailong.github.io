@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R snippet code- Metrics for model evaluation error"
+title: "Metrics for model evaluation error"
 author: long_nguyen
 modified:
 excerpt: "R snippet code- Metrics for model evaluation error"
