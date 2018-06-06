@@ -3,7 +3,7 @@ layout: post
 title: "Hive Performance Checklist"
 author: long_nguyen
 modified:
-excerpt: "Hive Performance Checklist"
+excerpt: "Performance checklist for optimizing Hive performanc"
 tags: []
 ---
 Apache Hive is a data warehouse software project built on top of Hadoop for providing data summarization, query and analysis. Hive is a SQL-like language so that it is easy to use and becomes popular to programmers. However, one of the biggest challenges Hive users face is the slow response time. 
@@ -15,7 +15,7 @@ Apache Tez provides more efficient processing than the MapReduce execution engin
 
 As show in below figure, the traditional MapReduce execution engine has several steps in which the intermediate data from the reducers are written back to HDFS, which incurs the performance penalty for disk I/O. Contrast this with the data flow of the Tez execution engine shown on the right side, where the reducer’s intermediate data is passed directly to the next reducer in the execution plan and bypasses the expense of writing the data to disk.
 
-![Tez example](https://photos.app.goo.gl/g6DTA81w2fvfLKuJ7)
+![Tez example](https://lh3.googleusercontent.com/A5Y5eDk6s2_ipcfwEUjXP96-JI2CxyjruTSxSfMJKnAaHbdEcRObtSV8w1ZDotF2g3aplvIAmYSwRt8rNDjGTSgFW_JdUpP1G2J_uXHlCcwt16V3wRLsNfSiqobCKVdu35s9kGF5f1s=w2400)
 
 ```SQL
 set hive.execution.engine=tez;
