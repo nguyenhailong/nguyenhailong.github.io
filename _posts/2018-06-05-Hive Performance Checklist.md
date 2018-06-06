@@ -15,7 +15,7 @@ Apache Tez provides more efficient processing than the MapReduce execution engin
 
 As show in below figure, the traditional MapReduce execution engine has several steps in which the intermediate data from the reducers are written back to HDFS, which incurs the performance penalty for disk I/O. Contrast this with the data flow of the Tez execution engine shown on the right side, where the reducer’s intermediate data is passed directly to the next reducer in the execution plan and bypasses the expense of writing the data to disk.
 
-![Tez example](https://goo.gl/cVYfwJ)
+![Tez example](https://goo.gl/dKwvvB)
 
 ```SQL
 set hive.execution.engine=tez;
