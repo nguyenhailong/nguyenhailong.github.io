@@ -3,7 +3,7 @@ layout: post
 title: "Hive Performance Checklist"
 author: long_nguyen
 modified:
-excerpt: "Performance checklist for optimizing Hive performanc"
+excerpt: "Checklist for optimizing Hive performance."
 tags: []
 ---
 Apache Hive is a data warehouse software project built on top of Hadoop for providing data summarization, query and analysis. Hive is a SQL-like language so that it is easy to use and becomes popular to programmers. However, one of the biggest challenges Hive users face is the slow response time. 
