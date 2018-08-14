@@ -45,8 +45,9 @@ case "$C" in
 esac
 ```
 
-```
 ### FOR loop
+
+```
 for i in 1 2 3 4 5    # can also be written for i in {1..5} or {start..end..increment}
 do
 	echo "Welcome $i times"
@@ -64,27 +65,27 @@ done
 
 ## Hive CLI (Command Line Interface)
 
-###Run Query
+### Run Query
 ```
 hive -e 'select a.col from tab1 a'
 ```
 
-###Run Non-Interactive Script	
+### Run Non-Interactive Script	
 ```
 hive -f script.sql
 ```
 
-###Run script inside shell
+### Run script inside shell
 ```
 source file_name
 ```
 
-###Setting Configuration Property for current Hive 
+### Setting Configuration Property for current Hive 
 ```
 hive --hiveconf year_mm=201808 -f script.sql
 ```
 
-###Run a Hive Script Even after You Logout
+### Run a Hive Script Even after You Logout
 Nohup is very helpful when you have to execute a shell-script or command that take a long time to finish. In that case, you don’t want to be connected to the shell and waiting for the command to complete. Instead, execute it with nohup, exit the shell and continue with your other work.
 
 
@@ -121,7 +122,8 @@ Save the above example as *my_hive_script.sh*. Remember to use nohup when execut
 nohup ./my_hive_script.sh
 ```
 
-##Bugs when switch from Window to Unix
+## Bugs when switch from Window to Unix
+
 Suppose you are using a Window system and want to execute your scripts on your Unix servers. 
 You may have some bugs of mismatch decodes between the two systesms (it took me a few hours to figure out the bug.)
 To fix it, you can use Notepad++ to convert the format as follow:
