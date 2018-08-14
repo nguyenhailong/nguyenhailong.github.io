@@ -3,10 +3,10 @@ layout: post
 title: "Bash Scripting for Hive"
 author: long_nguyen
 modified:
-excerpt: "Bash Scripting for Hive"
+excerpt: "Basics about bash scripts, quick guide for running Hive in command lines, and essential tips with example for running Hive script on servers."
 tags: []
 ---
-This post will provide basics about bash scripts, quick guide for running Hive in command lines, and essential tips with example for running Hive script on server with input parameters and loop.
+This post will provide basics about bash scripts, quick guide for running Hive in command lines, and essential tips with example for running Hive script on servers with input parameters and loop.
 
 ## Bash Scripting Basic
 ### Builtin shell variables
