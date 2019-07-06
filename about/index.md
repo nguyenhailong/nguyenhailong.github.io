@@ -9,7 +9,9 @@ image:
   credit: ThanhPhuong
   creditlink: http://www.thanhphuong.com/
 ---
-* I am currently a Product Analytics Manager at Visa compary. Previously, I worked as a data scientist at McLaren Applied Technologies and Institute for Infocomm Research (I2R), A*Star, Singapore.
+* Data lover, Kaggle master, problem solver, hands-on programmer with a business mindset.
+
+* I am currently a Director - Data Science at Visa Inc. company. I have more than nine years’ experience working on machine learning and data science. Moreover, I also have two years working as a software engineer. Previously, I worked as a data scientist at McLaren Applied Technologies and Institute for Infocomm Research (I2R), A*Star, Singapore.
 
 * I have strong interests in how to apply machine learning into real industries with big data. I have successfully worked for several industrial projects with significant funding for large multi-national corporations such as a telcos, consulting firms and energy corporations.  Moreover, I have published scientific papers in reputed conferences and journals. My research interests include time series mining, data stream mining, big data, and condition-based monitoring.
 
