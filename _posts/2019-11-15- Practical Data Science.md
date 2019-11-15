@@ -6,7 +6,8 @@ modified:
 excerpt: "Practical Data Science"
 tags: []
 ---
-My latest tutorial on "Practical Data Science". R programming language and Jupiter notebooks are used in this tutorial. However, the concepts are generic and can be applied for Python users as well.
+My latest tutorial on "Practical Data Science". R programming language and Jupiter notebooks are used in this tutorial. However, the concepts are generic and can be applied for Python or other programming language users as well.
+
 In this tutorial, I have discussed many essential steps in data science projects, including importing data, data manupulation, visualization, modeling and reporting.
 For each step, important libraries and example code are provided so that you can quickly reused them for your projects.
 For example: 
