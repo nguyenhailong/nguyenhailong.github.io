@@ -3,7 +3,7 @@ layout: post
 title: "Practical Data Science"
 author: long_nguyen
 modified:
-excerpt: "Practical Data Science"
+excerpt: "Practical Data Science. R programming language and Jupiter notebooks are used in this tutorial."
 tags: []
 ---
 My latest tutorial on "Practical Data Science". R programming language and Jupiter notebooks are used in this tutorial. However, the concepts are generic and can be applied for Python or other programming language users as well.
