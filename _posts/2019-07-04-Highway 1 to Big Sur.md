@@ -3,7 +3,7 @@ layout: post
 title: "Roadtrip along Highway 1 to Big Sur"
 author: long_nguyen
 modified:
-excerpt: "Roadtrip along Highway 1 to Big Sur"
+excerpt: "Collection of beatiful pictures taken during my road trips."
 tags: []
 ---
 Highway 1 is the best-known scenic drive in Monterey County, and one of the top scenic drives in the world. It's a National Scenic Byways Program All-American Road and a State Scenic Highway. It's been named one of the best scenic drives in the U.S. by many famous magazines, such as Forbes, SmarterTravel, Lonely Planet, and etc.
