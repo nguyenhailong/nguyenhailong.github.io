@@ -25,4 +25,8 @@ Here is the deck:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dAStlP8tnPGKWI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </figure>
 
-And, [notebooks](https://github.com/nguyenhailong/tutorials).
+And, the notebooks:
+- [Part 1](https://github.com/nguyenhailong/tutorials/blob/master/Practical%20Data%20Science%20-%20Part%201.ipynb)
+- [Part 2](https://github.com/nguyenhailong/tutorials/blob/master/Practical%20Data%20Science%20-%20Part%202.ipynb)
+
+Hope it useful.
